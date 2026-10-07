@@ -6,10 +6,10 @@
 ---
 
 ## Team Members
+- **Taroma, Hideki**
 - **Guevarra, Jymes**
 - **Que, Marco**
 - **Samaniego, Justin**
-- **Taroma, Hideki**
 
 ---
 
