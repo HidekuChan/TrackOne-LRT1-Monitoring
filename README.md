@@ -34,9 +34,8 @@ TrackOne is an automated, real-time platform congestion monitoring system for th
 
 ## Repository Structure
 - `/src` — Core Java source files (`Main`, `SimulationController`, `LrtModel`, `DashboardView`).
-- `/database` — Database scripts (`FINALPROJECT.sql`) and ERD diagram (`FINALPROJECT_ERD_CSS123P.png`).
-- `/docs` — System UML Architecture Diagram and presentation slides (`CSS123P_GRP10_PPT.pdf`).
-- `/screenshots` — UI execution screenshots and live demonstration visuals.
+- `/database` — Database scripts (`Database.sql`) and ERD diagram (`ERD.png`).
+- `/docs` — System UML Architecture Diagram and presentation slides (`PPT.pdf`).
 
 ---
 
